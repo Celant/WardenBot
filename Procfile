@@ -1,1 +1,1 @@
-web: bin/hubot -a skype-web
+web: bin/hubot -a skyweb
